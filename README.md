@@ -9,13 +9,13 @@
 ### *novice programmer & student 💻  
   
 
-===============================================
+=========================================================================
  Hello everyone!
 I'm a novice programmer, student, studying at the Faculty of Computer Science. 
   
   
 
-<div align="right">==============================================
+<div align="right">=======================================================
 I study programming languages such as Java, C++, Markup languages, for example HTML, CSS, Java Script.</div>  
   
 
