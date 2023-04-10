@@ -6,7 +6,7 @@
 # **DANILA STEBLEV**  
   
 
-### *novice programmer & student 💻  
+## *novice programmer & student 💻  
   
 
 
