@@ -17,7 +17,6 @@
 
 Hello everyone!
 I'm a novice programmer, student, studying at the Faculty of Computer Science. 
-<div align="right">
 I study programming languages such as Java, C++, Markup languages, for example HTML, CSS, Java Script.</div> 
   
   
@@ -27,19 +26,6 @@ I study programming languages such as Java, C++, Markup languages, for example H
 
 <br/>  
 
-<table><tr><td valign="top" width="33%">
-
-
-
-</td><td valign="top" width="33%">
-
-
-
-</td><td valign="top" width="33%">
-
-
-
-</td></tr></table>  
 
 <br/>  
 
