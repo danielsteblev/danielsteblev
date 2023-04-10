@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" height="" width="600" />
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" height="" width="300" />
 </div>  
   
 
@@ -9,14 +9,20 @@
 ### *novice programmer & student 💻  
   
 
-=========================================================================
+
+
+### =====================================  
+<div align="right">
+I study programming languages such as Java, C++, Markup languages, for example HTML, CSS, Java Script.</div>  
+  
+
+
+
+### =====================================  
+
  Hello everyone!
 I'm a novice programmer, student, studying at the Faculty of Computer Science. 
   
-  
-
-<div align="right">=======================================================
-I study programming languages such as Java, C++, Markup languages, for example HTML, CSS, Java Script.</div>  
   
 
   
