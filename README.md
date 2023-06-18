@@ -1,7 +1,7 @@
 
   
 
-# **Hi, I'm Danila Steblev 👋🏼 👨🏻‍💻**  
+# *Hi, I'm Danila Steblev 👋🏼 👨🏻‍💻*
   
 
 ## *novice programmer & student 💻  
