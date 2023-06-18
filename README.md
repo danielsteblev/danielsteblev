@@ -14,7 +14,8 @@
   
 
  Hello everyone! I'm a novice programmer, student, studying at the Faculty of Computer Science.  I study programming languages such as Java, C++, Markup languages, for example HTML, CSS, Java Script.</div> 
-  
+
+
   
 
   
@@ -58,3 +59,4 @@
 
 ----
 <div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+ ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Your_GitHub_Username&theme=blue-green)
