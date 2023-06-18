@@ -4,7 +4,7 @@
 # **Hi, I'm Danila Steblev 👋🏼 👨🏻‍💻**
   
 
-## *novice programmer & student 💻  
+## novice programmer & student 💻  
   
 
 
