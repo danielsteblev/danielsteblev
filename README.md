@@ -56,6 +56,6 @@
 
 
 <br />
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danielsteblev)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danielsteblev&layout=compact)
 
 ----
