@@ -59,4 +59,4 @@
 
 ----
 <div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
- ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Your_GitHub_Username&theme=blue-green)
+ ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=danielsteblev&theme=blue-green)
