@@ -9,9 +9,9 @@
 
  
   
+I am a student of the Faculty of Computer Science at Voronezh State University and am actively developing in the field of programming. My main skills include development in Java, HTML, CSS, SQL and Python. I have experience with ER diagrams for database design and am able to use them effectively to create structured and efficient databases.
 
- Hello everyone! I'm a novice programmer, student, studying at the Faculty of Computer Science.  I study programming languages such as Java, C++, Markup languages, for example HTML, CSS, Java Script.</div> 
-
+I am constantly learning new technologies and tools to improve my development skills. I am open to new challenges and ready to apply my knowledge and experience to create high-quality software solutions.
 
 
 
